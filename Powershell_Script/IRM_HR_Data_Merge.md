@@ -1,3 +1,6 @@
+# Please modify the script to align with your specific environment.
+
+
 # Install the ImportExcel module if not already installed
 
 Set-ExecutionPolicy Unrestricted -Scope CurrentUser
