@@ -7,7 +7,7 @@ There may be various scenarios to consider, but let’s focus on one in particul
 
 ![image](https://github.com/user-attachments/assets/fdb22487-75ae-4d50-87b3-8b140ed3698d)
 
-Our script is designed to assist us in merging the data into a single Excel file in the desired format outlined below.
+The script is designed to assist us in merging the data into a single Excel file in the desired format outlined below.
 
 <img width="550" alt="image" src="https://github.com/user-attachments/assets/f31c9f89-5e95-4f1a-b888-112785f0c2af" />
 
